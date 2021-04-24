@@ -1,7 +1,7 @@
 This is a ordered list:
 
 1. First item
-1. Second item
+2. Second item
   1. First sub item
   1. Second sub item
 
